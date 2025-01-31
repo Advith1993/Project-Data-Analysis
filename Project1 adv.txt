@@ -1,0 +1,15 @@
+Atliq is a computer hardware and peripheral manufacturer company.
+
+Problem statement
+tracking the sales in this dynamically growing market.
+need insights into business.
+
+How is the business doing? What are the regions we need to focus?
+Need simple understandable insights to make data driven decisions.
+
+Project planning
+AIMS grid
+1. purpose of project
+2. stakeholders - who all are involved?
+3. End result
+4. Success criteria
